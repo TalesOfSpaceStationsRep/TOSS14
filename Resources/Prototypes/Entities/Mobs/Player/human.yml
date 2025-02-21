@@ -115,10 +115,6 @@
   - type: Loadout
     prototypes: [SpaceAssholeGearFull]
     roleLoadout: [ RoleSurvivalSyndicate ]
-  - type: RandomMetadata
-    nameSegments:
-    - SyndicateNamesPrefix
-    - SyndicateNamesNormal
   - type: NpcFactionMember
     factions:
     - Syndicate
