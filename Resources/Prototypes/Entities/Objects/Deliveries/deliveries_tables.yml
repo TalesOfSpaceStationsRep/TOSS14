@@ -1,0 +1,92 @@
+### Spawners
+- type: entityTable
+  id: RandomDeliveryBasic
+  table: !type:GroupSelector
+    children:
+    - !type:NestedSelector
+      tableId: RandomDeliveryLetterBasic
+      weight: 0.7
+    - !type:NestedSelector
+      tableId: RandomDeliveryPackageBasic
+      weight: 0.3
+
+# Letters
+
+- type: entityTable # Used to pick between all different letter types, if there will be more
+  id: RandomDeliveryLetterBasic
+  table: !type:GroupSelector
+    children:
+    - id: LetterDelivery
+      weight: 1
+
+# Packages
+
+- type: entityTable # Used to pick between all different package types, if there will be more
+  id: RandomDeliveryPackageBasic
+  table: !type:GroupSelector
+    children:
+    - id: PackageDelivery
+      weight: 1
+
+### Reward Tables
+
+- type: entityTable
+  id: LetterDeliveryRewards
+  table: !type:GroupSelector
+    children:
+    - !type:NestedSelector
+      tableId: LetterSpamEntityTable
+      weight: 0.7
+    - !type:NestedSelector
+      tableId: LetterMinorEntityTable
+      weight: 0.2
+    - !type:NestedSelector
+      tableId: LetterMajorEntityTable
+      weight: 0.1
+
+### Loot Tables
+# Letters
+- type: entityTable
+  id: LetterSpamEntityTable
+  table: !type:GroupSelector
+    children:
+    - id: MailRobustToolsSpam
+    - id: MailNanotrasenSpam
+    - id: MailSyndicateSpam
+    - id: FirelockElectronics
+    - id: APCElectronics
+    - id: SignalTimerElectronics
+    - id: SMESMachineCircuitboard
+    - id: SubstationMachineCircuitboard
+    - id: SpaceVillainArcadeComputerCircuitboard
+    - id: BlockGameArcadeComputerCircuitboard
+
+- type: entityTable
+  id: LetterMinorEntityTable
+  table: !type:GroupSelector
+    children:
+    - id: AirAlarmElectronics
+    - id: FireAlarmElectronics
+    - id: DoorElectronics
+    - id: FirelockElectronics
+    - id: APCElectronics
+    - id: SignalTimerElectronics
+    - id: SMESMachineCircuitboard
+    - id: SubstationMachineCircuitboard
+    - id: SpaceVillainArcadeComputerCircuitboard
+    - id: BlockGameArcadeComputerCircuitboard
+
+- type: entityTable
+  id: LetterMajorEntityTable
+  table: !type:GroupSelector
+    children:
+    - id: AirAlarmElectronics
+    - id: FireAlarmElectronics
+    - id: DoorElectronics
+    - id: FirelockElectronics
+    - id: APCElectronics
+    - id: SignalTimerElectronics
+    - id: SMESMachineCircuitboard
+    - id: SubstationMachineCircuitboard
+    - id: SpaceVillainArcadeComputerCircuitboard
+    - id: BlockGameArcadeComputerCircuitboard
