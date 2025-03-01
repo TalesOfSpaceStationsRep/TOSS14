@@ -109,11 +109,11 @@
 - type: speechSounds
   id: Vulpa
   saySound:
-    path: /Audio/TOSS14/Voice/Vulpkanin_Talk/vulp.ogg
+    path: /Audio/TOSS14/Voice/Vulpkanin/vulp.ogg
   askSound:
-    path: /Audio/TOSS14/Voice/Vulpkanin_Talk/vulp_ask.ogg
+    path: /Audio/TOSS14/Voice/Vulpkanin/vulp_ask.ogg
   exclaimSound:
-    path: /Audio/TOSS14/Voice/Vulpkanin_Talk/vulp_exclaim.ogg
+    path: /Audio/TOSS14/Voice/Vulpkanin/vulp_exclaim.ogg
 
 - type: emoteSounds
   id: NesMaleVulpa
