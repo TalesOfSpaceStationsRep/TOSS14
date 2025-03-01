@@ -38,6 +38,10 @@
   name: metabolizer-type-dwarf
 
 - type: metabolizerType
+  id: Vulpkanin
+  name: metabolizer-type-vulpkanin
+
+- type: metabolizerType
   id: Moth
   name: metabolizer-type-moth
 
