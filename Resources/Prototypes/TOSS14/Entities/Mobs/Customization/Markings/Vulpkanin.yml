@@ -1,0 +1,197 @@
+- type: marking
+  id: TOSS14Vulpkaninaltpointsfadebelly
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_body.rsi
+      state: altpointsfadebelly
+
+- type: marking
+  id: TOSS14Vulpkaninbellycrest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_body.rsi
+      state: bellycrest
+
+- type: marking
+  id: TOSS14Vulpkanincrestpoints
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_body.rsi
+      state: crestpoints
+
+- type: marking
+  id: TOSS14Vulpkaninfoxbelly
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_body.rsi
+      state: foxbelly
+
+- type: marking
+  id: TOSS14Vulpkaninfullbelly
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_body.rsi
+      state: fullbelly
+
+- type: marking
+  id: TOSS14Vulpkaninpointsfade
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_body.rsi
+      state: pointsfade
+
+- type: marking
+  id: TOSS14Vulpkaninpointsfadebelly
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_body.rsi
+      state: pointsfadebelly
+
+- type: marking
+  id: TOSS14Vulpkaninsharppoints
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_body.rsi
+      state: sharppoints
+
+- type: marking
+  id: TOSS14Vulpkanintail1
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_tail.rsi
+      state: tail1
+
+- type: marking
+  id: TOSS14Vulpkanintail2
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_tail.rsi
+      state: tail2
+
+- type: marking
+  id: TOSS14VulpkanintailAll
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_tail.rsi
+      state: tail_m
+
+#- type: marking
+#  id: TOSS14Vulpkanintail3
+#  bodyPart: Tail
+#  markingCategory: Tail
+#  speciesRestriction: [VulpkaninSpecies]
+#  sprites:
+#    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_tail.rsi
+#      state: tail3
+
+- type: marking
+  id: TOSS14Vulpkaninear
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: ear
+
+- type: marking
+  id: TOSS14VulpkaninearBack
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: ear_back
+
+- type: marking
+  id: TOSS14Vulpkaninmuzzle
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: muzzle
+
+- type: marking
+  id: TOSS14Vulpkaninmuzzleear
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: muzzle_ear
+
+- type: marking
+  id: TOSS14Vulpkaninnose
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: nose
+
+- type: marking
+  id: TOSS14Vulpkaninpoints_fade
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: points_fade
+
+- type: marking
+  id: TOSS14Vulpkaninpoints_sharp
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: points_sharp
+
+- type: marking
+  id: TOSS14Vulpkaninskull
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: skull_sponsor
+
+- type: marking
+  id: TOSS14Vulpkanintiger_face
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: tiger_face
+
+- type: marking
+  id: TOSS14Vulpkanintiger_head
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_head.rsi
+      state: tiger_head
