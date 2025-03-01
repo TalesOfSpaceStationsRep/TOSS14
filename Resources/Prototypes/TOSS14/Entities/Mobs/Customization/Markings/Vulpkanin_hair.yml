@@ -1,0 +1,1568 @@
+- type: marking
+  id: TOSS14VulpkaninAbhara
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: abhara
+
+- type: marking
+  id: TOSS14VulpkaninAnite
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: anite
+
+- type: marking
+  id: TOSS14VulpkaninApollo
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: apollo
+
+- type: marking
+  id: TOSS14VulpkaninBelle
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: belle
+
+- type: marking
+  id: TOSS14VulpkaninBraided
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: braided
+
+- type: marking
+  id: TOSS14VulpkaninBun
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: bun
+
+- type: marking
+  id: TOSS14VulpkaninCurl
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: curl
+
+- type: marking
+  id: TOSS14VulpkaninHair_sponsor
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  #sponsorOnly: true
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: hair_sponsor
+
+- type: marking
+  id: TOSS14VulpkaninHawk
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: hawk
+
+- type: marking
+  id: TOSS14VulpkaninJagged_sponsor_hair
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  #sponsorOnly: true
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: jagged_sponsor_hair
+
+- type: marking
+  id: TOSS14VulpkaninKajam1
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: kajam1
+
+- type: marking
+  id: TOSS14VulpkaninKajam2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: kajam2
+
+- type: marking
+  id: TOSS14VulpkaninKeid
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: keid
+
+- type: marking
+  id: TOSS14VulpkaninKleeia
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: kleeia
+
+- type: marking
+  id: TOSS14VulpkaninMizar
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: mizar
+
+- type: marking
+  id: TOSS14VulpkaninRaine
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: raine
+
+- type: marking
+  id: TOSS14VulpkaninRough
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: rough
+
+- type: marking
+  id: TOSS14VulpkaninShort
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: short
+
+- type: marking
+  id: TOSS14VulpkaninShort2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: short2
+
+- type: marking
+  id: TOSS14VulpkaninSpike
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: spike
+
+- type: marking
+  id: TOSS14VulpkaninYkiteru_sponsor_hair
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  #sponsorOnly: true
+  sprites:
+    - sprite: TOSS14/Mobs/Customization/Vulpkanin/vulpkanin_hair.rsi
+      state: ykiteru_sponsor_hair
+
+- type: marking
+  id: TOSS14VulpkaninAfro
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: afro
+- type: marking
+  id: TOSS14VulpkaninAfro2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: afro2
+- type: marking
+  id: TOSS14VulpkaninBigafro
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bigafro
+- type: marking
+  id: TOSS14VulpkaninAntenna
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: antenna
+- type: marking
+  id: TOSS14VulpkaninBalding
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: e
+- type: marking
+  id: TOSS14VulpkaninBedhead
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bedhead
+- type: marking
+  id: TOSS14VulpkaninBedheadv2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bedheadv2
+- type: marking
+  id: TOSS14VulpkaninBedheadv3
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bedheadv3
+- type: marking
+  id: TOSS14VulpkaninLongBedhead
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: long_bedhead
+- type: marking
+  id: TOSS14VulpkaninFloorlengthBedhead
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: floorlength_bedhead
+- type: marking
+  id: TOSS14VulpkaninBeehive
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: beehive
+- type: marking
+  id: TOSS14VulpkaninBeehivev2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: beehivev2
+- type: marking
+  id: TOSS14VulpkaninBob
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bob
+- type: marking
+  id: TOSS14VulpkaninBob2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bob2
+- type: marking
+  id: TOSS14VulpkaninBobcut
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bobcut
+- type: marking
+  id: TOSS14VulpkaninBob4
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bob4
+- type: marking
+  id: TOSS14VulpkaninBobcurl
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bobcurl
+- type: marking
+  id: TOSS14VulpkaninBoddicker
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: boddicker
+- type: marking
+  id: TOSS14VulpkaninBowlcut
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bowlcut
+- type: marking
+  id: TOSS14VulpkaninBowlcut2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bowlcut2
+- type: marking
+  id: TOSS14VulpkaninBraid
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: braid
+- type: marking
+  id: TOSS14VulpkaninBraidfront
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: braidfront
+- type: marking
+  id: TOSS14VulpkaninBraid2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: braid2
+- type: marking
+  id: TOSS14VulpkaninHbraid
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: hbraid
+- type: marking
+  id: TOSS14VulpkaninShortbraid
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shortbraid
+- type: marking
+  id: TOSS14VulpkaninBraidtail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: braidtail
+- type: marking
+  id: TOSS14VulpkaninBunhead2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bunhead2
+- type: marking
+  id: TOSS14VulpkaninBun3
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bun3
+- type: marking
+  id: TOSS14VulpkaninLargebun
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: largebun
+- type: marking
+  id: TOSS14VulpkaninManbun
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: manbun
+- type: marking
+  id: TOSS14VulpkaninTightbun
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: tightbun
+- type: marking
+  id: TOSS14VulpkaninBusiness
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: business
+- type: marking
+  id: TOSS14VulpkaninBusiness2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: business2
+- type: marking
+  id: TOSS14VulpkaninBusiness3
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: business3
+- type: marking
+  id: TOSS14VulpkaninBusiness4
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: business4
+- type: marking
+  id: TOSS14VulpkaninBuzzcut
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: buzzcut
+- type: marking
+  id: TOSS14VulpkaninCia
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: cia
+- type: marking
+  id: TOSS14VulpkaninCoffeehouse
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: coffeehouse
+- type: marking
+  id: TOSS14VulpkaninCombover
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: combover
+- type: marking
+  id: TOSS14VulpkaninCornrows
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: cornrows
+- type: marking
+  id: TOSS14VulpkaninCornrows2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: cornrows2
+- type: marking
+  id: TOSS14VulpkaninCornrowbun
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: cornrowbun
+- type: marking
+  id: TOSS14VulpkaninCornrowbraid
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: cornrowbraid
+- type: marking
+  id: TOSS14VulpkaninCornrowtail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: cornrowtail
+- type: marking
+  id: TOSS14VulpkaninCrewcut
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: crewcut
+- type: marking
+  id: TOSS14VulpkaninCurls
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: curls
+- type: marking
+  id: TOSS14VulpkaninC
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: c
+- type: marking
+  id: TOSS14VulpkaninDandypompadour
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: dandypompadour
+- type: marking
+  id: TOSS14VulpkaninDevilock
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: devilock
+- type: marking
+  id: TOSS14VulpkaninDoublebun
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: doublebun
+- type: marking
+  id: TOSS14VulpkaninDreads
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: dreads
+- type: marking
+  id: TOSS14VulpkaninDrillruru
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: drillruru
+- type: marking
+  id: TOSS14VulpkaninDrillhairextended
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: drillhairextended
+- type: marking
+  id: TOSS14VulpkaninEmo
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: emo
+- type: marking
+  id: TOSS14VulpkaninEmofringe
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: emofringe
+- type: marking
+  id: TOSS14VulpkaninNofade
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: nofade
+- type: marking
+  id: TOSS14VulpkaninHighfade
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: highfade
+- type: marking
+  id: TOSS14VulpkaninMedfade
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: medfade
+- type: marking
+  id: TOSS14VulpkaninLowfade
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: lowfade
+- type: marking
+  id: TOSS14VulpkaninBaldfade
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: baldfade
+- type: marking
+  id: TOSS14VulpkaninFeather
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: feather
+- type: marking
+  id: TOSS14VulpkaninFather
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: father
+- type: marking
+  id: TOSS14VulpkaninSargeant
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: sargeant
+- type: marking
+  id: TOSS14VulpkaninFlair
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: flair
+- type: marking
+  id: TOSS14VulpkaninBigflattop
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bigflattop
+- type: marking
+  id: TOSS14VulpkaninFlow
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: f
+- type: marking
+  id: TOSS14VulpkaninGelled
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: gelled
+- type: marking
+  id: TOSS14VulpkaninGentle
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: gentle
+- type: marking
+  id: TOSS14VulpkaninHalfbang
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: halfbang
+- type: marking
+  id: TOSS14VulpkaninHalfbang2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: halfbang2
+- type: marking
+  id: TOSS14VulpkaninHalfshaved
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: halfshaved
+- type: marking
+  id: TOSS14VulpkaninHedgehog
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: hedgehog
+- type: marking
+  id: TOSS14VulpkaninHimecut
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: himecut
+- type: marking
+  id: TOSS14VulpkaninHimecut2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: himecut2
+- type: marking
+  id: TOSS14VulpkaninShorthime
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shorthime
+- type: marking
+  id: TOSS14VulpkaninHimeup
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: himeup
+- type: marking
+  id: TOSS14VulpkaninHitop
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: hitop
+- type: marking
+  id: TOSS14VulpkaninJade
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: jade
+- type: marking
+  id: TOSS14VulpkaninJensen
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: jensen
+- type: marking
+  id: TOSS14VulpkaninJoestar
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: joestar
+- type: marking
+  id: TOSS14VulpkaninKeanu
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: keanu
+- type: marking
+  id: TOSS14VulpkaninKusanagi
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: kusanagi
+- type: marking
+  id: TOSS14VulpkaninLong
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: long
+- type: marking
+  id: TOSS14VulpkaninLong2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: long2
+- type: marking
+  id: TOSS14VulpkaninLong3
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: long3
+- type: marking
+  id: TOSS14VulpkaninLongovereye
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: longovereye
+- type: marking
+  id: TOSS14VulpkaninLbangs
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: lbangs
+- type: marking
+  id: TOSS14VulpkaninLongemo
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: longemo
+- type: marking
+  id: TOSS14VulpkaninLongfringe
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: longfringe
+- type: marking
+  id: TOSS14VulpkaninLongsidepart
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: longsidepart
+- type: marking
+  id: TOSS14VulpkaninMegaeyebrows
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: megaeyebrows
+- type: marking
+  id: TOSS14VulpkaninMessy
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: messy
+- type: marking
+  id: TOSS14VulpkaninModern
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: modern
+- type: marking
+  id: TOSS14VulpkaninMohawk
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: d
+- type: marking
+  id: TOSS14VulpkaninNitori
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: nitori
+- type: marking
+  id: TOSS14VulpkaninReversemohawk
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: reversemohawk
+- type: marking
+  id: TOSS14VulpkaninUnshavenMohawk
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: unshaven_mohawk
+- type: marking
+  id: TOSS14VulpkaninMulder
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: mulder
+- type: marking
+  id: TOSS14VulpkaninOdango
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: odango
+- type: marking
+  id: TOSS14VulpkaninOmbre
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ombre
+- type: marking
+  id: TOSS14VulpkaninOneshoulder
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: oneshoulder
+- type: marking
+  id: TOSS14VulpkaninShortovereye
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shortovereye
+- type: marking
+  id: TOSS14VulpkaninOxton
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: oxton
+- type: marking
+  id: TOSS14VulpkaninParted
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: parted
+- type: marking
+  id: TOSS14VulpkaninPart
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: part
+- type: marking
+  id: TOSS14VulpkaninKagami
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: kagami
+- type: marking
+  id: TOSS14VulpkaninPigtails
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: pigtails
+- type: marking
+  id: TOSS14VulpkaninPigtails2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: pigtails2
+- type: marking
+  id: TOSS14VulpkaninPixie
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: pixie
+- type: marking
+  id: TOSS14VulpkaninPompadour
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: pompadour
+- type: marking
+  id: TOSS14VulpkaninBigpompadour
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: bigpompadour
+- type: marking
+  id: TOSS14VulpkaninPonytail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ponytail
+- type: marking
+  id: TOSS14VulpkaninPonytail2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ponytail2
+- type: marking
+  id: TOSS14VulpkaninPonytail3
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ponytail3
+- type: marking
+  id: TOSS14VulpkaninPonytail4
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ponytail4
+- type: marking
+  id: TOSS14VulpkaninPonytail5
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ponytail5
+- type: marking
+  id: TOSS14VulpkaninPonytail6
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ponytail6
+- type: marking
+  id: TOSS14VulpkaninPonytail7
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ponytail7
+- type: marking
+  id: TOSS14VulpkaninHighponytail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: highponytail
+- type: marking
+  id: TOSS14VulpkaninStail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: stail
+- type: marking
+  id: TOSS14VulpkaninLongstraightponytail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: longstraightponytail
+- type: marking
+  id: TOSS14VulpkaninCountry
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: country
+- type: marking
+  id: TOSS14VulpkaninFringetail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: fringetail
+- type: marking
+  id: TOSS14VulpkaninSidetail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: sidetail
+- type: marking
+  id: TOSS14VulpkaninSidetail2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: sidetail2
+- type: marking
+  id: TOSS14VulpkaninSidetail3
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: sidetail3
+- type: marking
+  id: TOSS14VulpkaninSidetail4
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: sidetail4
+- type: marking
+  id: TOSS14VulpkaninSpikyponytail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: spikyponytail
+- type: marking
+  id: TOSS14VulpkaninPoofy
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: poofy
+- type: marking
+  id: TOSS14VulpkaninQuiff
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: quiff
+- type: marking
+  id: TOSS14VulpkaninRonin
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: ronin
+- type: marking
+  id: TOSS14VulpkaninShaved
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shaved
+- type: marking
+  id: TOSS14VulpkaninShavedpart
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shavedpart
+- type: marking
+  id: TOSS14VulpkaninShortbangs
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shortbangs
+- type: marking
+  id: TOSS14VulpkaninA
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: a
+- type: marking
+  id: TOSS14VulpkaninShorthair2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shorthair2
+- type: marking
+  id: TOSS14VulpkaninShorthair3
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shorthair3
+- type: marking
+  id: TOSS14VulpkaninD
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: d
+- type: marking
+  id: TOSS14VulpkaninE
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: e
+- type: marking
+  id: TOSS14VulpkaninF
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: f
+- type: marking
+  id: TOSS14VulpkaninShorthairg
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: shorthairg
+- type: marking
+  id: TOSS14Vulpkanin80s
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: 80s
+- type: marking
+  id: TOSS14VulpkaninRosa
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: rosa
+- type: marking
+  id: TOSS14VulpkaninB
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: b
+- type: marking
+  id: TOSS14VulpkaninSidecut
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: sidecut
+- type: marking
+  id: TOSS14VulpkaninSkinhead
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: skinhead
+- type: marking
+  id: TOSS14VulpkaninProtagonist
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: protagonist
+- type: marking
+  id: TOSS14VulpkaninSpikey
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: spikey
+- type: marking
+  id: TOSS14VulpkaninSpiky
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: spiky
+- type: marking
+  id: TOSS14VulpkaninSpiky2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: spiky2
+- type: marking
+  id: TOSS14VulpkaninSwept
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: swept
+- type: marking
+  id: TOSS14VulpkaninSwept2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: swept2
+- type: marking
+  id: TOSS14VulpkaninThinning
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: thinning
+- type: marking
+  id: TOSS14VulpkaninThinningfront
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: thinningfront
+- type: marking
+  id: TOSS14VulpkaninThinningrear
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: thinningrear
+- type: marking
+  id: TOSS14VulpkaninTopknot
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: topknot
+- type: marking
+  id: TOSS14VulpkaninTressshoulder
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: tressshoulder
+- type: marking
+  id: TOSS14VulpkaninTrimmed
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: trimmed
+- type: marking
+  id: TOSS14VulpkaninTrimflat
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: trimflat
+- type: marking
+  id: TOSS14VulpkaninTwintail
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: twintail
+- type: marking
+  id: TOSS14VulpkaninUndercut
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: undercut
+- type: marking
+  id: TOSS14VulpkaninUndercutleft
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: undercutleft
+- type: marking
+  id: TOSS14VulpkaninUndercutright
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: undercutright
+- type: marking
+  id: TOSS14VulpkaninUnkept
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: unkept
+- type: marking
+  id: TOSS14VulpkaninUpdo
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: updo
+- type: marking
+  id: TOSS14VulpkaninVlong
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: vlong
+- type: marking
+  id: TOSS14VulpkaninLongest
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: longest
+- type: marking
+  id: TOSS14VulpkaninLongest2
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: longest2
+- type: marking
+  id: TOSS14VulpkaninVeryshortovereyealternate
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: veryshortovereyealternate
+- type: marking
+  id: TOSS14VulpkaninVlongfringe
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: vlongfringe
+- type: marking
+  id: TOSS14VulpkaninVolaju
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: volaju
+- type: marking
+  id: TOSS14VulpkaninWisp
+  bodyPart: Hair
+  markingCategory: Hair
+  speciesRestriction: [VulpkaninSpecies]
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: wisp
