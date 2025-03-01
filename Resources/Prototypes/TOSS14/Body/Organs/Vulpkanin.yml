@@ -1,7 +1,6 @@
 - type: entity
   id: OrganVulpkaninStomach
   parent: OrganAnimalStomach
-  noSpawn: true
   components:
     - type: Stomach
     - type: SolutionContainerManager
