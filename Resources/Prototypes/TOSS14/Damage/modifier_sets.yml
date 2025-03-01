@@ -1,0 +1,5 @@
+- type: damageModifierSet
+  id: Fur
+  coefficients:
+    Cold: 0.5
+    Heat: 1.5
