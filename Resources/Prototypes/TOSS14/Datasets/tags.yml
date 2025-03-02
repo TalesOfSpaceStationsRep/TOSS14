@@ -1,0 +1,7 @@
+- type: dataset
+  id: EligibleTags
+  values:
+  - SheathableSword
+
+- type: Tag
+  id: SheathableSword

@@ -1,0 +1,24 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: TOSSArmorLightKnight
+  name: light knight armor
+  description: a pair of armor trims with long coat
+  components:
+  - type: Sprite
+    sprite: TOSS14/Clothing/OuterClothing/Armor/lightknight.rsi
+  - type: Clothing
+    sprite: TOSS14/Clothing/OuterClothing/Armor/lightknight.rsi
+  - type: TemperatureProtection
+    heatingCoefficient: 0.9
+  - type: Storage
+    grid:
+    - 0,0,4,2
+    maxItemSize: Huge
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.2
+        Slash: 0.2
+        Piercing: 0.2
+  - type: ExplosionResistance
+    damageCoefficient: 0.30
