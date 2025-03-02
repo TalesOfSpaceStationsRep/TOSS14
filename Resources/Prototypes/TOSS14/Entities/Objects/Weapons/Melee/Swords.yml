@@ -1,0 +1,71 @@
+- type: entity
+  name: TOSSSunlightStraightSword #//TOSS - Название предмета, можно писать всё что угодно, локализация всё равно перекроет этот текст
+  parent: BaseSword #// TOSS - Родитель предмета, тобишь, база на которой строиться наш предмет
+  id: TOSSSunlightSSword #// TOSS - Уникальный Айди этого предмета, если другие переменные можно просто скопировать, данный айди следует переименовать, дабы не было двух одинаковых 
+  description: A sword of sunlight, i guess.  #// TOSS - Описание, также как и с названием можно писать всё что угодно
+  components:
+  - type: Sprite
+    sprite: TOSS14/Objects/Weapons/Melee/SunlightStraightSword.rsi #// TOSS - Это отвечает за отображение спрайта в мире и иконках
+  - type: MeleeWeapon
+    attackRate: 0.4 #//TOSS - Тут редактируется скорость атаки, Чем меньше число тем медленее атака (0.1 - медленно / 9 - быстро)
+    damage:
+      types:
+        Slash: 17 #//TOSS Damage - Тут редактируется урон
+        Blunt: 14 #//TOSS Damage - Тут редактируется урон
+    soundHit:
+        path: /Audio/Weapons/bladeslice.ogg #//TOSS Sound - Это отвечает за звуки
+  - type: Item 
+    sprite: TOSS14/Objects/Weapons/Melee/SunlightStraightSword.rsi #//TOSS Type - Это показывает игре то, что этот предмет имеет спрайт в руках
+    size: Ginormous #//TOSS - Это указывает игре насколько обьект большой, имеется несколько видов, но именно этот и запрещает сувать вещи в рюкзаки
+  - type: Tag
+    tags:
+    - SheathableSword #//TOSS - Это переменная которая и позволяет сунуть именно этот предмет в ножны
+
+- type: entity
+  name: TOSSPalash
+  parent: BaseSword
+  id: TOSSPalash
+  description: A sword of sunlight, i guess.
+  components:
+  - type: Sprite
+    sprite: TOSS14/Objects/Weapons/Melee/Palash.rsi
+  - type: MeleeWeapon
+    attackRate: 0.5
+    damage:
+      types:
+        Slash: 10 
+        Blunt: 7
+    soundHit:
+        path: /Audio/Weapons/bladeslice.ogg 
+  - type: Item 
+    sprite: TOSS14/Objects/Weapons/Melee/Palash.rsi
+    size: Ginormous
+  - type: Tag
+    tags:
+    - SheathableSword
+
+- type: entity
+  name: TOSSRicardoRapire
+  parent: BaseSword
+  id: TOSSRicardoRapire
+  description: A sword of sunlight, i guess.
+  components:
+  - type: Sprite
+    sprite: TOSS14/Objects/Weapons/Melee/RicardoRapire.rsi
+  - type: MeleeWeapon
+    attackRate: 0.8
+    damage:
+      types:
+        Slash: 3
+        Blunt: 5
+        Piercing: 7
+    soundHit:
+        path: /Audio/Weapons/bladeslice.ogg 
+  - type: Item 
+    sprite: TOSS14/Objects/Weapons/Melee/RicardoRapire.rsi
+    size: Ginormous
+  - type: Tag
+    tags:
+    - SheathableSword
+
+#//Я Оставил для тебя обьяснения в первом энтити, думаю, тебе будет более понятнее таким образом, удачного создания, друг :3

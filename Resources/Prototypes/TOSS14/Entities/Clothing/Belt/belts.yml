@@ -1,0 +1,31 @@
+- type: entity
+  parent: [ClothingBeltBase, ClothingSlotBase]
+  id: TOSS14SwordSheath
+  name: Sheath
+  description: Dont confuse it with vulpkanines sheaths.
+  components:
+  - type: Sprite
+    sprite: Clothing/Belt/sheath.rsi
+    state: sheath
+  - type: Clothing
+    sprite: Clothing/Belt/sheath.rsi
+  - type: Item
+    size: Ginormous
+  - type: ItemSlots
+    slots:
+      item:
+        name: Sabre
+        insertVerbText: sheath-insert-verb
+        ejectVerbText: sheath-eject-verb
+        insertSound: /Audio/Items/sheath.ogg
+        ejectSound: /Audio/Items/unsheath.ogg
+        whitelist:
+          tags:
+          - SheathableSword
+  - type: ItemMapper
+    mapLayers:
+      sheath-sabre:
+        whitelist:
+          tags:
+          - SheathableSword
+  - type: Appearance
