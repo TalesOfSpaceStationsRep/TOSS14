@@ -14,7 +14,7 @@
   components:
   - type: Metabolizer
     maxReagents: 2
-    metabolizerTypes: [ Tajaran, Animal ]
+    metabolizerTypes: [ Vulpkanin, Animal ]
     groups:
     - id: Medicine
     - id: Poison
