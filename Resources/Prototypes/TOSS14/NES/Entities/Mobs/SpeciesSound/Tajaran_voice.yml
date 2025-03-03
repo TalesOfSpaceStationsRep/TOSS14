@@ -1,0 +1,42 @@
+- type: emote
+  id: Purr
+  name: chat-emote-name-purr
+  category: Vocal
+  chatMessages: [мурчит]
+  chatTriggers:
+    - мурчит.
+    - мурчит
+    - мурчит!
+
+- type: emote
+  id: Meow
+  name: chat-emote-name-purr
+  category: Vocal
+  chatMessages: [мявчит]
+  chatTriggers:
+    - мяу.
+    - мяу
+    - мяу!
+
+- type: emote
+  id: Mew
+  name: chat-emote-name-purr
+  category: Vocal
+  chatMessages: [мявчит]
+  chatTriggers:
+    - мяв.
+    - мяв
+    - мяв!
+
+- type: emote
+  id: Growl
+  name: chat-emote-name-growl
+  category: Vocal
+  chatMessages: [рычит]
+  chatTriggers:
+    - ррр.
+    - ррр
+    - ррр!
+    - рычит.
+    - рычит
+    - рычит!

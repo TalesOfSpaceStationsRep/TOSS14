@@ -37,15 +37,6 @@
       collection: MaleCry
     Whistle:
       collection: Whistles
-    # TOSS14-Apathy Sounds. 
-    Scream-apathy:
-      collection: TajaranMaleScreams
-    Laugh-apathy:
-      collection: MaleLaugh 
-    Sigh-apathy:
-      collection: MaleSigh
-    Crying-apathy:
-      collection: MaleCry
 
 - type: emoteSounds
   id: TOSS14FemaleTajaran
@@ -86,12 +77,3 @@
       collection: FemaleCry
     Whistle:
       collection: Whistles
-    # TOSS14-Apathy Sounds. 
-    Scream-apathy:
-      collection: TajaranFemaleScreams
-    Laugh-apathy:
-      collection: FemaleLaugh 
-    Sigh-apathy:
-      collection: FemaleSigh
-    Crying-apathy:
-      collection: FemaleCry

@@ -167,7 +167,6 @@
   bodyPart: Head
   markingCategory: Head
   speciesRestriction: [TajaranSpecies]
-  sponsorOnly: true
   sprites:
     - sprite: TOSS14/Mobs/Customization/Tajaran/tajaran_head.rsi
       state: patch_SPONSOR_ONLY
